@@ -1,0 +1,6 @@
+{
+  "name": "Business Plan SaaS CIE - Relevé Intelligent",
+  "description": "Business Plan exécutif complet et professionnel pour le SaaS de relevé intelligent de compteurs d'électricité pour la CIE (Côte d'Ivoire), téléchargeable en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
